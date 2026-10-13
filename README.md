@@ -22,7 +22,7 @@ Circuit stages were simulated in LTspice before being assembled and tested on br
 
 ## Demonstration
 
-[Watch the working optical audio communication system](Demo.mp4)
+https://github.com/user-attachments/assets/ede135f2-ec7b-42b7-acc6-416e4edd469f)
 
 ## Tools and Technologies
 
