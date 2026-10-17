@@ -22,7 +22,8 @@ Circuit stages were simulated in LTspice before being assembled and tested on br
 
 ## Demonstration
 
-https://github.com/user-attachments/assets/ede135f2-ec7b-42b7-acc6-416e4edd469f)
+https://github.com/user-attachments/assets/cbbc4ae0-ff39-4880-95a2-c84ba6496c82
+
 
 ## Tools and Technologies
 
