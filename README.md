@@ -23,8 +23,7 @@ Circuit stages were simulated in LTspice before being assembled and tested on br
 ## Demonstration
 
 Click link for video: https://github.com/user-attachments/assets/cbbc4ae0-ff39-4880-95a2-c84ba6496c82
-
-LTspice
+Not captured: Audio from one person’s device, such as a song played through an AUX connection, is converted into a changing laser signal. That laser is sent to another person’s board, where a solar cell detects the changing light, converts it back into an electrical audio signal, and plays it through their speaker.
 <img width="575" height="413" alt="LTspice2001" src="https://github.com/user-attachments/assets/0bdcbfb2-e49d-489e-88e5-eb5e94bc64f2" />
 
 
